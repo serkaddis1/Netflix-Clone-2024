@@ -33,8 +33,7 @@ const Footer = () => {
                     <li>Gift Cards</li>
                     <li>Terms of Use</li>
                     <li>Corporate Information</li>
-                    <li>Privacy</li>
-                    <li>Contact Us</li>
+                    
                 </ul>
             </div>
             <div>
